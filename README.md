@@ -10,5 +10,4 @@ Results
 Create a Mapbox account, setup config.js and open index.html
 To interact with the maps API the user have to visit mapbox.com, create a Mapbox account and retrieve the access token.
 
-![image](https://user-images.githubusercontent.com/101227930/182104826-3e972825-c188-40de-b720-f10fbe725f39.png)
 
