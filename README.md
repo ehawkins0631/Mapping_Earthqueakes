@@ -7,9 +7,7 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 Resources
 Software: HTML/CSS, JavaScript, Visual Studio, Leaflet.js, D3.js 
 
-Results
-Create a Mapbox account, setup config.js and open index.html
-To interact with the maps API the user have to visit mapbox.com, create a Mapbox account and retrieve the access token.
+
 
 ![image](https://user-images.githubusercontent.com/101227930/182129992-cc062f39-085f-490c-a5e1-f6b3f96a9ba7.png)
 
