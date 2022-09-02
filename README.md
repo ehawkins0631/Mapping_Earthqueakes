@@ -38,7 +38,4 @@ email: ehawkins0631@gmail.com
 
 twitter: @evahawkins3006
 
-Linkedin https://www.linkedin.com/in/eva-hawkins-a9b333147?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBNFb6lLqT5%2BphXu1GpAOrQ%3D%3D
-
-
-
+Linkedin https://www.linkedin.com/in/eva-hawkins-a9b333147/
