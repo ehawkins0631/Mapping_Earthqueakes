@@ -8,7 +8,6 @@ Resources
 
 Data source: GeoJSON
 
-
 Software: HTML/CSS, JavaScript, Visual Studio, Leaflet.js, D3.js, Github, MapBox,  
 
 
