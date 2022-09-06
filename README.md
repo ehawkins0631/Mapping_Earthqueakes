@@ -5,6 +5,7 @@ The purpose of this project is to visually show the differences between the magn
 
 
 Resources
+
 Data source: GeoJSON
 
 Software: HTML/CSS, JavaScript, Visual Studio, Leaflet.js, D3.js, Github, MapBox,  
