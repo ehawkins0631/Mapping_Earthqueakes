@@ -18,6 +18,7 @@ Color changes to lines, marker types, and sizes
 Adding popup info box
 Plotting different points, multiple points, lines, polygons
 
+
 Examples:
 
 figure 1
