@@ -26,8 +26,10 @@ Examples:
 figure 1
 ![image](https://user-images.githubusercontent.com/101227930/182129992-cc062f39-085f-490c-a5e1-f6b3f96a9ba7.png)
 
+
 Figure 2: Tectonic Plates Map
 ![image](https://user-images.githubusercontent.com/101227930/182130047-89132e87-db5f-439e-8cd6-079af67a3e78.png)
+
 
 Figure 3:  Dark Map
 ![image](https://user-images.githubusercontent.com/101227930/182130196-ad171833-036a-4952-9fc4-6d901684236e.png)
