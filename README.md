@@ -15,6 +15,7 @@ Software: HTML/CSS, JavaScript, Visual Studio, Leaflet.js, D3.js, Github, MapBox
 
 Throughout this project, we learned how to create map layers, visual customizations that included:
 
+
 Toggling between map styles (i.e. dark, streets, satellite)
 Color changes to lines, marker types, and sizes
 Adding popup info box
