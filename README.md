@@ -26,7 +26,6 @@ Plotting different points, multiple points, lines, polygons
 
 Examples:
 
-
 figure 1
 ![image](https://user-images.githubusercontent.com/101227930/182129992-cc062f39-085f-490c-a5e1-f6b3f96a9ba7.png)
 
